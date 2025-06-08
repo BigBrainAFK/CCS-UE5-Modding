@@ -4,6 +4,8 @@ This is just a quick modding guide explaining how to use the linked tools.
 
 ## 0. Getting the tools
 
+First extract the repository zip file into a folder of its own for example `CCS Mods`.
+
 Go through `__tools` and read each `README.md` to know where to download the tool from and where to place it
 
 If you just want to browse assets and extract models/textures and not create mods all you need is `__tools\FModel`.
