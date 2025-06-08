@@ -43,7 +43,7 @@ This is best as there is a script and we can just repoint `FModel` to the new fo
 
 ### 2.1. Actual conversion
 
-1. Execute `start_tools.ps1` from the files you extracted by right clicking it (or start a terminal in the folder/navigate to it)
+1. Execute `start_tools.ps1` (or `start_tools.bat`) from the files you extracted by right clicking it (or start a terminal in the folder/navigate to it)
 2. Then we run `.\convert_game.ps1 'C:\Program Files\Steam\steamapps\common\Cash Cleaner Simulator\CashCleanerSimulator\Content\Paks\' .\legacy_files\legacy_p.pak`
 
 You will most likely have to replace `C:\Program Files\Steam` with the actual path to your steam installation/library that the game is in.
@@ -161,7 +161,7 @@ Clicking on `File` in the ribbon menu at the top and then `Save` (or pressing `C
 
 This is quite an easy step as I wrote a Powershell script to take care of all the more painful parts.
 
-For this we can use the terminal that `start_tools.ps1` opened. We then type `pack` and press tab (or type out `.\pack.ps1`) and we will follow it up with the folder to compress.
+For this we can use the terminal that `start_tools.ps1` (or `start_tool.bat`) opened. We then type `pack` and press tab (or type out `.\pack.ps1`) and we will follow it up with the folder to compress.
 
 In this case thats `.\counter_mod_1234\`. Then we specify the output filename and path.
 
