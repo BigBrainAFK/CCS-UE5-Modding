@@ -1,0 +1,1 @@
+Download 7z from https://www.7-zip.org/download.html as the `standalone console version, 7z DLL, Plugin for Far Manager` and extract it into this folder

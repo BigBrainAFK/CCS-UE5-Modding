@@ -1,0 +1,1 @@
+Download FModel from https://github.com/4sval/FModel/releases and put `FModel.exe` into this folder

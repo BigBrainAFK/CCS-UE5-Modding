@@ -1,0 +1,2 @@
+*.usmap binary
+*.usmap filter=lfs diff=lfs merge=lfs -text

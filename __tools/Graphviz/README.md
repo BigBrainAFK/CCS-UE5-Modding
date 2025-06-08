@@ -1,0 +1,1 @@
+Download Graphviz from here https://graphviz.org/download/ as the zip version and place its content in this folder.

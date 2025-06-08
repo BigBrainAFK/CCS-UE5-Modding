@@ -1,0 +1,1 @@
+Download the latest version from here https://github.com/atenfyr/UAssetGUI/releases and put the `UAssetGUI.exe` in this folder

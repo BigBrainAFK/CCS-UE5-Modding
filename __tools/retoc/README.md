@@ -1,0 +1,1 @@
+Download retoc from https://github.com/trumank/retoc/releases and extract it into this folder so `retoc.exe` is in here.
